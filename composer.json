@@ -1,14 +1,18 @@
 {
-    "name": "laravel-admin-ext/config",
+    "name": "zanemmm/config",
     "description": "Config extension for laravel-admin",
     "type": "library",
-    "keywords": ["laravel-admin", "setting"],
-    "homepage": "https://github.com/laravel-admin-extensions/config",
+    "keywords": ["laravel-admin", "setting", "config"],
+    "homepage": "https://github.com/zanemmm/config",
     "license": "MIT",
     "authors": [
         {
             "name": "z-song",
             "email": "zosong@126.com"
+        },
+        {
+            "name": "zane",
+            "email": "pi@0php.com"
         }
     ],
     "require": {
