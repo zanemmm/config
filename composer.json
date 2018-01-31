@@ -1,9 +1,9 @@
 {
-    "name": "zanemmm/config",
+    "name": "zanemmm/laravel-admin-config",
     "description": "Config extension for laravel-admin",
     "type": "library",
     "keywords": ["laravel-admin", "setting", "config"],
-    "homepage": "https://github.com/zanemmm/config",
+    "homepage": "https://github.com/zanemmm/laravel-admin-config",
     "license": "MIT",
     "authors": [
         {
